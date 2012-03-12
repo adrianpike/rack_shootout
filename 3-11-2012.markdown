@@ -6,8 +6,12 @@
 * Ruby 1.9.3-p125, compiled from source
 * rbenv 0.3.0
 * httpd-2.2.15-15.el6.centos.1.i686 from RPM
-* httperf 0.9.0 running from a Mac Mini, over WiFi (yeah, I know. Redoing this over ethernet soon.)
+* httperf 0.9.0 running locally, running through loopback
 * nginx 1.0.13, compiled form source
 
 === Unicorn + nginx
+
+
+
+=== Passenger + apache
 

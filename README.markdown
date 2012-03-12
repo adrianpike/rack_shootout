@@ -20,3 +20,8 @@ The Sinatra app has two urls:
 There's also static assets that need to happen in a little bit.
  
 I plan to simulate more usage patterns at a later date.
+
+== TODO
+
+ * Better statistics - I'd love to have somebody who's better versed in stats give this a once-over
+ * Automate the magic?
