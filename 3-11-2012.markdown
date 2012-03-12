@@ -1,0 +1,13 @@
+= Rack shootout, 3-11-2012
+
+== Environment details:
+* 4x3.06Ghz Xeon, 6130bogomips each
+* 4GB RAM
+* Ruby 1.9.3-p125, compiled from source
+* rbenv 0.3.0
+* httpd-2.2.15-15.el6.centos.1.i686 from RPM
+* httperf 0.9.0 running from a Mac Mini, over WiFi (yeah, I know. Redoing this over ethernet soon.)
+* nginx 1.0.13, compiled form source
+
+=== Unicorn + nginx
+
